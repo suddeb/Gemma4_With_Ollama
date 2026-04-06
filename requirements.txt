@@ -1,0 +1,8 @@
+# Ollama experiments (agentforce.py, multimodal_image_analysis.py)
+ollama
+
+# FastAPI CRUD server (FastApi_Crud_Server.py)
+fastapi
+pydantic
+sqlalchemy
+uvicorn
