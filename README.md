@@ -1,4 +1,4 @@
-# Gemma 4 with Ollama (Local AI)
+# Gemma 4 with Ollama (Local AI1)
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
